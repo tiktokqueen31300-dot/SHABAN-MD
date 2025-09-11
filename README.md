@@ -68,15 +68,26 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 
 -------------
 
-<a href="https://shaban.lovestoblog.com/">
-  <img 
-    title="DEPLOY-NOW" 
-    src="https://img.shields.io/badge/DEPLOY--NOW-Click%20to%20deploy-9400D3?style=for-the-badge&logo=vercel&logoColor=blue"
-    width="500" 
-    height="30.35"
-    alt="Deploy with Vercel"
-  />
-</a>
+## _🕹️ DEPLOYMENT_
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN45/SHABAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://shaban.lovestoblog.com/" target="_blank"><img src="https://img.shields.io/badge/official-site-A52A2A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=MRSHABAN45/SHABAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-000080?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=FFFF00"/></a></td>
+      <td><a href="https://shaban-free-host.zone.id/" target="_blank"><img src="https://img.shields.io/badge/Free-host-CC00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
+
+-------------
 
 -------------
 
