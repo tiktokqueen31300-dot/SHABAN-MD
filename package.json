@@ -7,8 +7,8 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": ">=22.16.0",
-    "npm": ">=11.4.1"
+    "node": ">=22.x",
+    "npm": ">=11.x"
   },
   "dependencies": {
     "@whiskeysockets/baileys":"github:Jeliostarr/DEV-Baileys",
