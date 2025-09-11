@@ -8,10 +8,10 @@
   },
   "engines": {
     "node": ">=22.16.0",
-    "npm": ">=11.6.0"
+    "npm": ">=11.4.1"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:angularsockets",
+    "@whiskeysockets/baileys":"github:Jeliostarr/DEV-Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "latest",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -19,7 +19,7 @@
     "@dark-yasiya/scrap": "1.0.1",
     "pino": "^9.5.0",
     "util": "^0.12.5",
-    "express": "^4.19.2",
+    "express": "latest",
     "moment-timezone": "^0.6.0",
     "axios": "^1.10.0",
     "crypto-digest-sync": "^1.0.0",
