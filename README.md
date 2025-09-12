@@ -68,7 +68,7 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 
 -------------
 
-## _🕹️ DEPLOYMENT_
+## _🕹️ DEPLOYMENTS_
 
 <div align="center">
   <table>
