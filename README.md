@@ -91,7 +91,7 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 
 -------------
 
-**_✠ FREE DEPLOYMENT OF SHABAN MD GITHUB WORKFLOW CODE ✠_**
+**_✠ FREE DEPLOYMENT OF SHABAN MD GITHUB WORKFLOW CODE NEW ADD ERROR FIXED ✠_**
 
 ```
 name: Node.js CI
@@ -111,7 +111,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [20.x]
+        node-version: [24.8.0]   # Specific Node.js version set
 
     steps:
     - name: Checkout repository
@@ -121,12 +121,17 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
+        check-latest: true   # Always grab the exact latest patch for this version
 
     - name: Install dependencies
       run: npm install
 
+    - name: Build project (optional)
+      run: npm run build || echo "No build script found, skipping..."
+
     - name: Start application
       run: npm start
+
 ```
 
 -------
