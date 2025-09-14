@@ -21,7 +21,7 @@ ___
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+SHABAN+MD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+SHABAN42;🚀+SHABAN-MD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
+[![Follow Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel%20Old%20Channel%20Block-800000?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6aq4cCHDygiEqJZl0S)
 </div>
 
 ---------
